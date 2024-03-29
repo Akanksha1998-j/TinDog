@@ -28,7 +28,7 @@ Welcome to TinDog, a fun frontend project that aims to clone the popular dating 
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/Akanksha1998-j/TinDog.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/akanksha-j-soni/TinDog.git`.
 2. Navigate into the project directory: `cd TinDog`.
 3. Open the `index.html` file in your preferred web browser to view the application.
 
